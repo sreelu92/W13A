@@ -1,9 +1,7 @@
 <template>
   <div id="app">
     <page-header></page-header>
-    <br><br><br><br><br><br><br>
     <page-body></page-body>
-    <br><br><br><br><br><br><br><br>
     <page-footer></page-footer>
   </div>
 </template>
@@ -32,6 +30,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 30px
 }
 </style>

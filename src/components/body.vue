@@ -36,6 +36,7 @@ export default {
   justify-items: center;
   align-items: center;
   column-gap: 5px;
-  grid-template-columns: 1fr 3fr 5fr 1fr ;
+  grid-template-columns: 1fr 3fr 3fr 1fr ;
+  margin-top: 10vh;
 }
 </style>

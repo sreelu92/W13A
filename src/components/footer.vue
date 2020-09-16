@@ -22,6 +22,7 @@ export default {
   align-items: center;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
       background-color:lightgray;
+      margin-top: 30vh;
 
 }
 
